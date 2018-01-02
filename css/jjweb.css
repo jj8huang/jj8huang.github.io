@@ -179,6 +179,9 @@ ul#menu_list li{
 	font-family: "Century Gothic" ;
 }
 
+.weather-btn{
+}
+
 .my_blurb{
 	text-align:left;
 	font-family:"Century Gothic";
@@ -234,6 +237,8 @@ ul#menu_list li{
 	background: none !important;
 }
 .btn-info{
+	height:250px !important;
+	width:250px !important;
 	background: none !important;
 	-o-transition:.5s;
     -ms-transition:.5s;
